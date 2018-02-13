@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package ckeyer.attack.types;
+package ckeyer.api;
 
 option go_package = "types";
 
